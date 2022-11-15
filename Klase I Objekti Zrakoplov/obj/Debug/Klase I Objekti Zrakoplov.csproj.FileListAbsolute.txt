@@ -1,0 +1,3 @@
+C:\Users\heist\Documents\Code\Klase I Objekti Zrakoplov\obj\Debug\Klase I Objekti Zrakoplov.csproj.AssemblyReference.cache
+C:\Users\heist\Documents\Code\Klase I Objekti Zrakoplov\obj\Debug\Klase I Objekti Zrakoplov.csproj.SuggestedBindingRedirects.cache
+C:\Users\heist\Documents\Code\Klase I Objekti Zrakoplov\obj\Debug\Klase I Objekti Zrakoplov.csproj.CoreCompileInputs.cache
